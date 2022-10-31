@@ -1,20 +1,8 @@
-- 👋 Hi, I’m @Shihab-Chowdhury
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Hi, I'm Shihab
 
-<!---
-Shihab-Chowdhury/Shihab-Chowdhury is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A software engineer.
 
-# Hi, I'm Rafi
-
-A JavaScript Developer. Also, passionate about technologies and love to learn new things.
-
-
-## ⚡ Tech Stacks
+### Tech Stacks
 
 Here are a few things I've picked up along my learning journey.
 
@@ -32,8 +20,7 @@ Here are a few things I've picked up along my learning journey.
  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 
 
-## 📫 Ping Me on
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/rafi0x) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/rafiul.awal.rafi) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafiulawal.r@gmail.com)
+### Ping Me on
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/shihab176/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cshihab04@gmail.com)
 
