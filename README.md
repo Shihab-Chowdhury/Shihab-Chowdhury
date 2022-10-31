@@ -1,6 +1,6 @@
 Hi, I am Shihab. 
 
-Currently working as a software engineer in a "health tech based platform" project.</br> 
+Currently working as a software engineer in a "health tech" project.</br> 
 Favourite quote: C is quirky, flawed, and an enormous success. (Dennis Ritchie)</br></br>
 You can email me at cshihab04@gmail.com
 <br/>
