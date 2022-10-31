@@ -1,23 +1,15 @@
-<h1 align="center">Hi 👋, I'm Shihab</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+Hi, I am Shihab. 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shihab-chowdhury&label=Profile%20views&color=0e75b6&style=flat" alt="shihab-chowdhury" /> </p>
+Currently working as a software engineer in a "health tech based platform" project.</br> 
+Favourite quote: C is quirky, flawed, and an enormous success. (Dennis Ritchie)</br></br>
+You can email me at cshihab04@gmail.com
+<br/>
+<br/>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shihab-chowdhury" alt="shihab-chowdhury" /></a> </p> -->
+<b>Few Languages and Tools, I picked up along the way:</b>
+<br/>
+<br/>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **Healthcare Management Application**
-
-- 📫 How to reach me **cshihab04@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shihab176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shihab176" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/11557685/shihab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11557685/shihab" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
 
 <div style="display: flex;">
   <div>
@@ -27,15 +19,15 @@
 <img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=Shihab-Chowdhury&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)">
   </div> -->
  </div>
+<br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shihab-Chowdhury&theme=radical&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api?username=Shihab-Chowdhury&theme=radical&hide_border=true&include_all_commits=true&count_private=false)
-<br/>
 
-### ✍️ Random Dev Quote
+<b>Random Dev Quote:</b> <br/>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="1024px"/>
+<!-- ### 😂 Random Dev Meme
+![](https://random-memer.herokuapp.com/) -->
 
 
